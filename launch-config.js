@@ -13,7 +13,7 @@ window.SWG_LAUNCH_CONFIG = {
   // Create a Formspree form and paste the endpoint here:
   // Example: https://formspree.io/f/abcdwxyz
   // A compatible webhook endpoint that accepts JSON can also be used.
-  leadEndpoint: "",
+  leadEndpoint: "https://formspree.io/f/xljdepew",
 
   // Set this to your real domain before launch, including https://
   websiteUrl: "https://seasonswithgrace.org",
