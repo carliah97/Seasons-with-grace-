@@ -6,7 +6,7 @@ window.SWG_LAUNCH_CONFIG = {
 
   // REQUIRED BEFORE ADS GO LIVE:
   phone: "877-754-5412",
-  smsNumber: "",
+  smsNumber: "877-754-5412",
   email: "admin@swg.solutions",
 
   // FASTEST LIVE FORM OPTION:
@@ -26,7 +26,7 @@ window.SWG_LAUNCH_CONFIG = {
   googleAdsConversionLabel: "",
 
   // Optional social links
-  facebookUrl: "",
+  facebookUrl: "https://www.facebook.com/share/g/1HZTRnsoTV/?mibextid=wwXIfr",
   instagramUrl: "",
 
   // Public wording
