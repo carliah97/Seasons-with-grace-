@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#fff8ee"><title>Quote Request Received | Seasons With Grace</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="launch.css"></head>
+<body>
+  <div class="thankyou-card">
+    <img src="images/logo.png" alt="Seasons With Grace logo">
+    <span class="section-kicker">Quote Request Received</span>
+    <h1>Thank you.</h1>
+    <p style="color:var(--muted);font-size:17px;line-height:1.65">Your pet transport request has been submitted. Our team will review the route, timing, and pet information and contact you about availability and pricing.</p>
+    <div class="proof-note" id="leadRef">Keep this page for your records.</div>
+    <div class="hero-actions center" style="margin-top:20px"><a class="btn btn-gold" data-phone-link href="#">Call Seasons With Grace</a><a class="btn btn-outline" href="index.html">Return to Website</a></div>
+  </div>
+  <script src="launch-config.js"></script><script src="launch-runtime.js"></script>
+  <script>
+    const p=new URLSearchParams(location.search);const id=p.get("lead");if(id)document.getElementById("leadRef").textContent="Request reference: "+id;
+  </script>
+</body></html>
