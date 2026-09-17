@@ -5,9 +5,9 @@ window.SWG_LAUNCH_CONFIG = {
   serviceArea: "Nationwide U.S. ground pet transportation",
 
   // REQUIRED BEFORE ADS GO LIVE:
-  phone: "",
+  phone: "877-754-5412",
   smsNumber: "",
-  email: "",
+  email: "admin@swg.solutions",
 
   // FASTEST LIVE FORM OPTION:
   // Create a Formspree form and paste the endpoint here:
@@ -16,7 +16,7 @@ window.SWG_LAUNCH_CONFIG = {
   leadEndpoint: "",
 
   // Set this to your real domain before launch, including https://
-  websiteUrl: "https://YOURDOMAIN.com",
+  websiteUrl: "https://seasonswithgrace.org",
 
   // Optional ad / analytics IDs.
   // Leave blank until you have the accounts created.
